@@ -1,0 +1,27 @@
+.divhover{
+  width: 100%;
+  border: 1px solid green;
+  padding: 10px;
+  margin-top: 10px;
+}
+.h3demo{
+    color: #0a0d0d;
+}
+.pdemo{
+    color: #181f1f;
+}
+.bdemo{
+    color: #171c1c;
+}
+.button {
+  background-color: #ffffff;
+  border: 1px solid #2779e4;
+  border-radius: 7px;
+  color: #000000;
+  font-size: 1rem;
+  padding: 0.75rem 1.25rem;
+}
+.button.filled {
+  background-color: #2779e4;
+  color: #ffffff;
+}
